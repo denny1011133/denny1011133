@@ -30,3 +30,4 @@ I am a Full Stack Developer from Taiwan.
 ---
 [My Blog](https://neon-cranachan-9593e1.netlify.app/)
 
+[LinkedIn](https://www.linkedin.com/in/denny1011133/)
