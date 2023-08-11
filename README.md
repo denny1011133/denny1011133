@@ -28,6 +28,6 @@ I am a Full Stack Developer from Taiwan.
 </p>
 
 ---
-[My Blog](https://neon-cranachan-9593e1.netlify.app/)
+[My Blog](https://dennyliou.hashnode.dev/)
 
 [LinkedIn](https://www.linkedin.com/in/denny1011133/)
